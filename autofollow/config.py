@@ -1,0 +1,12 @@
+min_followers = None
+max_followers = None
+email_verified = False
+phone_verified = False
+official_shop = False
+country = False
+work_recursively = True
+recursion_limit = 10
+search_in_followers = False
+search_in_following = True
+where = "timeline"
+last_active_time = 7

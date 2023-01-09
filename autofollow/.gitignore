@@ -1,0 +1,11 @@
+*.log
+*.pyc
+__pycache__
+nohup.out
+.idea/
+.vscode/
+.replit
+venv/
+apprise.yml
+cookie.txt
+.DS_Store
